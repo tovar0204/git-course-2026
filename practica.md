@@ -18,9 +18,9 @@
 
 ## A. Presentación
 
-- **Mi nombre o apodo:** [ESCRIBE AQUÍ]
-- **Una actividad que disfruto:** [ESCRIBE AQUÍ]
-- **Algo que me gustaría aprender con Git:** [ESCRIBE AQUÍ]
+- **Mi nombre o apodo:** [Tovar]
+- **Una actividad que disfruto:** [Patinar]
+- **Algo que me gustaría aprender con Git:** [Tener varias vetsiones de códigos]
 
 ## B. Lo que aprendí
 
