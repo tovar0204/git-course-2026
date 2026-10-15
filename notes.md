@@ -10,3 +10,5 @@ comando -h: nos dice lo que se puede hacer con ese comando
 
 git checkout: sirve para intercambiar ramas o commits 
 git switch: Para cambiar de rama 
+
+git commit: guarda los cambios del staging area 
